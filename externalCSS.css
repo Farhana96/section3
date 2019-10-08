@@ -1,0 +1,50 @@
+*{
+  font-family: Arial;
+}
+
+body {
+  color: blue;
+  background-color: #E6E6FA;
+  border: 1px solid black;
+}
+
+h1 {
+  color: #E6E6FA;
+  background-color: #191970;
+  font-family: Times New Roman;
+  border: 3px dashed red;
+}
+
+h2{
+  border: 3px dashed blue;
+}
+
+p{
+  color: red;
+}
+
+.contact{
+  color: #291970;
+}
+
+table{
+  border-collapse: collapse;
+  border: 2px solid red;
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+}
+
+td, th{
+  color: black;
+  border-collapse: collapse;
+  border: 2px solid red;
+  padding: 10px 20px;
+}
+
+th{
+  background-color: #291970;
+}
+
+#p1{
+  background-color: blue;
+}
